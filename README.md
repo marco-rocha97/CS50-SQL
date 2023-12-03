@@ -1,4 +1,4 @@
-# CS50 SQL
+# CS50 SQL 💽
 This is the repository with the exercises done in the Harvard CS50 SQL course
 
 The files were written logically, representing each exercise and chapter in the course  
@@ -34,7 +34,7 @@ For example: 01_views.sql is Views exercise, the 1st from chapter 0
 - Securing
 - Triggers
 
-## Chapter 5 - Optimizing 🔄
+## Chapter 5 - Optimizing 🚀
 - INDEX
 - Query Plans
 - Transactions
