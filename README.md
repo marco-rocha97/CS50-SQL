@@ -7,39 +7,39 @@ x represents the chapter number
 y represents the exercise number  
 For example: 01_views.sql is Views exercise, the 1st from chapter 0  
 
-## Chapter 0 - Querying
+## Chapter 0 - Querying 🔍
 - SELECT / WHERE / LIKE / ORDER BY
 - Range Conditions
 - Aggregate Functions
 
-## Chapter 1 - Relating
+## Chapter 1 - Relating 🤝
 - IN / JOIN / SETS / GROUPS
 - Subqueries
 
-## Chapter 2 - Designing
+## Chapter 2 - Designing ✏️
 - CREATE TABLE / ALTER TABLE
 - Data Types & Storage Classes
 - Table & Columns Constraints
 
-## Chapter 3 - Writing
+## Chapter 3 - Writing 📝
 - INSERT INTO / DELETE FROM / UPDATE
 - Importing
 - Foreign Key Constraints
 - Triggers
 
-## Chapter 4 - Viewing
+## Chapter 4 - Viewing 👀
 - CREATE VIEW / TEMPORARY VIEW
 - Table Expressions
 - Partitioning
 - Securing
 - Triggers
 
-## Chapter 5 - Optimizing
+## Chapter 5 - Optimizing 🔄
 - INDEX
 - Query Plans
 - Transactions
 
-## Chapter 6 - Scaling
+## Chapter 6 - Scaling 📈
 - MySQL
 - Stored Procedures
 - PostgreSQL
