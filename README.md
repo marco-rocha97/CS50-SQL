@@ -7,3 +7,5 @@ x represents the chapter number
 y represents the exercise number  
 For example, 01_views.sql is views exercise, the 1st from chapter 0  
 
+## Chapter 0
+- test
