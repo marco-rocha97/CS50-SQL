@@ -8,22 +8,39 @@ y represents the exercise number
 For example, 01_views.sql is views exercise, the 1st from chapter 0  
 
 ## Chapter 0 - Querying
-- test
+- SELECT / WHERE / LIKE / ORDER BY
+- Range Conditions
+- Aggregate Functions
 
 ## Chapter 1 - Relating
-- test
+- IN / JOIN / SETS / GROUPS
+- Subqueries
 
 ## Chapter 2 - Designing
-- test
+- CREATE TABLE / ALTER TABLE
+- Data Types & Storage Classes
+- Table & Columns Constraints
 
 ## Chapter 3 - Writing
-- test
+- INSERT INTO / DELETE FROM / UPDATE
+- Importing
+- Foreign Key Constraints
+- Triggers
 
 ## Chapter 4 - Viewing
-- test
+- CREATE VIEW / TEMPORARY VIEW
+- Table Expressions
+- Partitioning
+- Securing
+- Triggers
 
 ## Chapter 5 - Optimizing
-- test
+- INDEX
+- Query Plans
+- Transactions
 
 ## Chapter 6 - Scaling
-- test
+- MySQL
+- Stored Procedures
+- PostgreSQL
+- Prepared Statements
