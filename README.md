@@ -5,7 +5,7 @@ The files were written logically, representing each exercise and chapter in the 
 xy_name.sql  
 x represents the chapter number  
 y represents the exercise number  
-For example: 01_views.sql is Views exercise, the 1st from chapter 0  
+For example: 00_cyberchase.sql is Cyberchase exercise, the 1st from chapter 0  
 
 ## Chapter 0 - Querying 🔍
 - SELECT / WHERE / LIKE / ORDER BY
